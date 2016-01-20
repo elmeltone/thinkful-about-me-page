@@ -107,3 +107,7 @@ p {
     background-position: center;
   }
 }
+
+li:hover {
+  cursor: pointer;
+}
